@@ -1,0 +1,10 @@
+Global Transpose: -12
+Waveform: saw
+Detune Voices: 4
+Detune Amount: 0.05
+Phase Randomization: 1
+Volume: 0.1
+Attack: 0.01
+Decay: 0.1
+Sustain: 0.05
+Release: 0.01
