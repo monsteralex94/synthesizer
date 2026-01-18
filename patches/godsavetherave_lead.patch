@@ -1,10 +1,27 @@
-Global Transpose: 0
-Waveform: saw
-Detune Voices: 16
-Detune Amount: 0.5
-Phase Randomization: 1
-Volume: 0.15
+Master Volume: 1
 Attack: 0.01
 Decay: 0.1
 Sustain: 0.075
 Release: 0.01
+Global Transpose: 0
+
+Volume: 0.15
+Transpose: 0
+Waveform: saw
+Detune Voices: 16
+Detune Amount: 0.5
+Phase Randomization: 1
+
+Volume: 0
+Transpose: 0
+Waveform: sine
+Detune Voices: 0
+Detune Amount: 0
+Phase Randomization: 0
+
+Volume: 0
+Transpose: 0
+Waveform: sine
+Detune Voices: 0
+Detune Amount: 0
+Phase Randomization: 0
